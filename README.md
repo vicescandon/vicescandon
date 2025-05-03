@@ -6,7 +6,7 @@
   - [Description & Scripts](https://github.com/vicescandon/eating_disorders_paper)
 
 - <b> Predictor Analysis of Loan Default (Machine Learning application): "Predictive Analysis of Loan Defaults Using Penalized Logistic Regression, Random Forest, and Gradient Boosting Models" </b>
-  - [Description & Scripts](https://github.com/vicescandon/eating_disorders_paper)
+  - [Description, Scripts & Report document](https://github.com/vicescandon/default_loan_predictors)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis- a
