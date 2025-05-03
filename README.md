@@ -1,14 +1,15 @@
-<h1> Portafolio de Víctor M. Escandón Arellano | Economista por el Centro de Investigación y Docencia Económicas (CIDE) </h1>
+<h1> Proyect Portfolio | Víctor M. Escandón Arellano | Economist by the Center for Research and Economics Teaching (CIDE) </h1>
 
 <h2>👨‍💻 Proyectos:</h2>
 
-- <b> Trabajo de investigación (aplicación econométrica): "What is the effect of the internet on eating disorder behaviors among Mexican youth?" </b>
+- <b> Working paper (econometrics application): "What is the effect of the internet on eating disorder behaviors among Mexican youth?" </b>
   - [Description & Scripts](https://github.com/vicescandon/eating_disorders_paper)
+
+- <b> Predictor Analysis of Loan Default (Machine Learning application): "Predictive Analysis of Loan Defaults Using Penalized Logistic Regression, Random Forest, and Gradient Boosting Models" </b>
+  - [Description & Scripts](https://github.com/vicescandon/eating_disorders_paper)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis- a
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
