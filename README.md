@@ -3,7 +3,7 @@
 <h2>👨‍💻 Proyectos:</h2>
 
 - <b> Trabajo de investigación (aplicación econométrica): "What is the effect of the internet on eating disorder behaviors among Mexican youth?" </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Description & Scripts](https://github.com/vicescandon/eating_disorders_paper)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
