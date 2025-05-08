@@ -1,4 +1,4 @@
-<h1> Proyect Portfolio | Víctor M. Escandón Arellano | Economist by the Center for Research and Economics Teaching (CIDE) </h1>
+<h1> Project Portfolio | Víctor M. Escandón Arellano | Economist by the Center for Research and Economics Teaching (CIDE) </h1>
 
 <h2>👨‍💻 Proyects:</h2>
 
