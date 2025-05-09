@@ -3,7 +3,7 @@
 <h2>👨‍💻 Proyects:</h2>
 
 - <b> Working paper (Econometrics application): "What is the effect of the internet on eating disorder behaviors among Mexican youth?" </b>
-  - [Description & Draft](https://github.com/vicescandon/eating_disorders_paper)
+  - [Description & Script](https://github.com/vicescandon/eating_disorders_paper)
 
 - <b> Predictor Analysis of Loan Default (Machine Learning application): "Predictive Analysis of Loan Defaults Using Penalized Logistic Regression, Random Forest, and Gradient Boosting Models" </b>
   - [Description, Scripts & Report document](https://github.com/vicescandon/default_loan_predictors)
